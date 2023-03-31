@@ -1,8 +1,5 @@
 ## HTML5 Website Templates (For Begginers and Professionals)
  
-*Discord Server: https://discord.gg/3YJDKYnB <img src="assets/star.png" width="18" height="18" align="absmiddle" title="star" /> *
-*AMONG US DISCORD BOT: https://captain-bot.xyz <img src="assets/star.png" width="18" height="18" align="absmiddle" title="star" /> *
-
 ### Table of contents
 
 
